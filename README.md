@@ -7,7 +7,7 @@ Retour vibrant des sons joués avec les cubes Ricochets.
 ## UML
 
 
-<img alt="Cabling"" src="https://github.com/ricochetGobz/ricochet_bracelet/blob/master/imgs/ricochet_bracelet-UML.png?raw=true">
+<img alt="Bracelet UML" src="https://github.com/ricochetGobz/ricochet_bracelet/blob/master/imgs/Ricochet_bracelet-UML.png?raw=true">
 
 
 ## Functionnalities
@@ -61,7 +61,7 @@ Retour vibrant des sons joués avec les cubes Ricochets.
 
 ## Temporary Cabling
 
-<img alt="Cabling"" src="https://github.com/ricochetGobz/ricochet_bracelet/blob/master/imgs/cabling_bracelet.png?raw=true">
+<img alt="Cabling" src="https://github.com/ricochetGobz/ricochet_bracelet/blob/master/imgs/cabling_bracelet.png?raw=true">
 
 
 ## Fabrication
