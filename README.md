@@ -7,6 +7,8 @@ Retour vibrant des sons joués avec les cubes Ricochets.
 ## UML
 
 
+<img alt="Cabling"" src="https://github.com/ricochetGobz/ricochet_bracelet/blob/master/imgs/ricochet_bracelet-UML.png?raw=true">
+
 
 ## Functionnalities
 
@@ -64,5 +66,5 @@ Retour vibrant des sons joués avec les cubes Ricochets.
 
 ## Fabrication
 
-Pistes : Impression 3D OU Brassard tissus.
+Pistes : Impression 3D / Brassard tissus / Cuir
 
